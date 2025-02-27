@@ -1,0 +1,148 @@
+# Prompt untuk Landing Page Influencer Kesehatan Holistik
+
+## Prompt Utama
+Buatkan landing page profesional untuk influencer kesehatan holistik dengan fokus pada kesehatan mental, fisik, dan emosional. Landing page ini harus menginspirasi pengunjung untuk menjalani gaya hidup seimbang melalui pendekatan kesehatan komprehensif, meliputi pola tidur, nutrisi, aktivitas fisik, kesehatan sosial-emosional, dan perawatan preventif. Desain harus mencerminkan kepribadian yang hangat dan dapat dipercaya, serta menyampaikan kredibilitas sebagai otoritas di bidang kesehatan. Landing page ini juga harus mendorong interaksi dan konsultasi personal.
+
+## Kriteria Utama
+1. **Profesionalisme dengan Kehangatan** - Menyeimbangkan kredibilitas medis dengan pendekatan yang ramah dan personal
+2. **Aksesibilitas** - Informasi kesehatan disajikan dengan cara yang mudah dipahami
+3. **Call-to-Action yang Jelas** - Mendorong pengunjung untuk berkonsultasi/berinteraksi
+4. **Navigasi Intuitif** - Pengunjung dapat menemukan informasi dengan mudah
+5. **Mobile Responsive** - Tampilan optimal di semua perangkat
+6. **Waktu Muat Cepat** - Pengalaman pengguna yang lancar
+7. **Visual Menenangkan** - Desain yang tidak mengganggu dan mendukung tema kesehatan
+8. **Testimoni Kredibel** - Menampilkan keberhasilan untuk membangun kepercayaan
+
+## Color Scheme & Tone Design
+**Color Scheme:**
+- **Warna Utama**: Biru muda (#AED9E0) - Mewakili ketenangan, kepercayaan, dan kesejukan
+- **Warna Sekunder**: Hijau mint (#B5E5CF) - Melambangkan pertumbuhan, kesegaran, dan keseimbangan
+- **Aksen**: Coral lembut (#F49F9F) - Memberikan kehangatan dan energi yang mengundang
+- **Background**: Putih (#FFFFFF) dan abu-abu sangat terang (#F9F9F9) - Menciptakan ruang yang bersih dan terbuka
+- **Text**: Abu-abu gelap (#333333) untuk keterbacaan dan biru tua (#2B5F75) untuk judul
+
+**Tone Design:**
+- Profesional namun hangat
+- Clean dan minimal dengan white space yang cukup
+- Elemen organik dan lengkungan lembut (menghindari sudut tajam)
+- Ilustrasi flat design dengan sentuhan natural
+- Foto berkualitas tinggi menampilkan orang-orang dengan ekspresi sehat dan bahagia
+- Ikon sederhana dengan gaya konsisten
+
+## Sections & Language Style
+
+### 1. Hero Section
+**Konten:** Headline impactful, sub-headline penjelasan, dan CTA utama dengan foto profesional influencer
+**Gaya Bahasa:** Personal, langsung, dan inspiratif. Menggunakan kalimat aktif dan singkat yang membangkitkan emosi positif.
+**Contoh:** "Hidup Seimbang, Sehat Menyeluruh. Temukan versi terbaik dirimu melalui pendekatan kesehatan holistik."
+
+### 2. About Me / Tentang Saya
+**Konten:** Profil singkat, kredensial, perjalanan personal, dan filosofi kesehatan
+**Gaya Bahasa:** Narasi personal yang otentik, menggunakan orang pertama, menciptakan koneksi emosional dengan menceritakan kisah transformasi pribadi.
+**Contoh:** "Perjalanan saya menuju kesehatan holistik bermula dari pengalaman pribadi menghadapi burnout..."
+
+### 3. Layanan Kesehatan Holistik
+**Konten:** Penjelasan area keahlian dengan ikon dan deskripsi singkat: kesehatan mental, pola tidur, nutrisi, aktivitas fisik, dll.
+**Gaya Bahasa:** Informatif namun conversational, menggunakan bullet points dan frasa ringkas yang mudah dipahami.
+**Contoh:** "Optimalisasi Tidur — Pelajari teknik dan rutinitas untuk tidur berkualitas yang memulihkan tubuh dan pikiran Anda."
+
+### 4. Artikel & Resources Pilihan
+**Konten:** Preview artikel teratas atau sumber daya gratis dengan gambar thumbnail
+**Gaya Bahasa:** Headline yang compelling dengan deskripsi yang clear dan value-focused.
+**Contoh:** "5 Kebiasaan Pagi untuk Menjaga Kesehatan Jantung — Rutinitas sederhana yang dapat Anda mulai besok."
+
+### 5. Testimoni & Kisah Sukses
+**Konten:** Kutipan dan cerita dari klien yang telah mengalami transformasi
+**Gaya Bahasa:** Authentic testimonials dengan naratif before-and-after yang menggambarkan perubahan konkret.
+**Contoh:** "Melalui konsultasi dan program nutrisinya, saya akhirnya berhasil mengatasi gangguan tidur yang sudah saya alami selama bertahun-tahun."
+
+### 6. Program Konsultasi / Berbicara dengan Ahli
+**Konten:** Deskripsi layanan konsultasi, paket, dan proses
+**Gaya Bahasa:** Clear, straightforward dengan penekanan pada benefit dan transparansi.
+**Contoh:** "Konsultasi Kesehatan Personal — Diskusi 1-on-1 untuk menganalisa kebutuhan spesifik Anda dan menciptakan rencana kesehatan yang disesuaikan."
+
+### 7. Blog / Articles Section
+**Konten:** Grid atau list artikel terbaru dengan kategori tematik
+**Gaya Bahasa:** Headline yang informatif dengan preview konten yang menarik rasa ingin tahu.
+**Contoh:** "Mengenal Pentingnya Vitamin D untuk Kesehatan Mental — Hubungan tak terduga antara sinar matahari dan mood Anda."
+
+### 8. Newsletter Sign-up
+**Konten:** Form singkat dengan value proposition
+**Gaya Bahasa:** Concise, benefit-focused dan dengan sentuhan urgency.
+**Contoh:** "Dapatkan tips kesehatan mingguan langsung ke inbox Anda. Bergabunglah dengan 10,000+ orang yang telah memulai perjalanan kesehatan holistik mereka."
+
+### 9. Footer dengan Social Media & Contact
+**Konten:** Social media links, contact info, quick links
+**Gaya Bahasa:** Profesional dan inviting
+**Contoh:** "Mari terhubung! Ikuti perjalanan kesehatan saya atau hubungi untuk pertanyaan lebih lanjut."
+
+## Call-to-Action Utama:
+- "Jadwalkan Konsultasi Personal"
+- "Mulai Perjalanan Sehat Anda"
+- "Temukan Program yang Tepat untuk Anda"
+- "Bergabung dengan Komunitas Kesehatan"
+
+Landing page ini akan menciptakan pengalaman yang menyeimbangkan aspek profesional dan personal, memberikan nilai kepada pengunjung melalui informasi yang aktionable, dan membangun kepercayaan untuk mendorong interaksi lebih lanjut dengan influencer kesehatan.
+
+
+
+Oke, siap! Berikut adalah prompt yang dirancang untuk menghasilkan landing page yang sempurna untuk seorang influencer pendidikan, beserta kriteria, skema warna, tone desain, gaya bahasa, dan daftar section yang detail:
+
+Prompt:
+
+"Buatlah sebuah landing page yang menarik dan efektif untuk seorang influencer pendidikan bernama [Nama Influencer]. Landing page ini bertujuan untuk [Sebutkan Tujuan Utama: Contoh: Meningkatkan jumlah subscriber newsletter, mempromosikan kelas online, membangun personal branding, dll.]. Landing page harus mampu secara meyakinkan menyampaikan value proposition influencer, membangun kepercayaan audiens, dan mendorong konversi yang diinginkan."
+
+Kriteria Landing Page yang Sempurna:
+
+*   Value Proposition yang Jelas:  Harus secara langsung dan ringkas menyatakan apa yang ditawarkan influencer dan mengapa audiens harus tertarik.
+*   Desain Visual yang Menarik: Estetika yang bersih, modern, dan profesional yang mencerminkan kepribadian influencer dan kredibilitasnya.
+*   Responsif: Tampilan optimal di semua perangkat (desktop, tablet, mobile).
+*   Kecepatan Loading: Halaman harus dimuat dengan cepat untuk menghindari kehilangan pengunjung.
+*   SEO-Friendly: Struktur halaman dan konten dioptimalkan untuk mesin pencari agar mudah ditemukan.
+*   Call-to-Action (CTA) yang Jelas: Tombol dan tautan CTA yang menonjol dan persuasif untuk mengarahkan pengunjung ke tindakan yang diinginkan.
+*   Social Proof: Testimoni, statistik, atau logo mitra yang membangun kepercayaan.
+*   Navigasi yang Mudah: Struktur menu dan tautan internal yang intuitif.
+*   Informasi Kontak yang Jelas: Cara mudah bagi pengunjung untuk menghubungi influencer.
+*   Analitik yang Terintegrasi:  Terhubung dengan Google Analytics atau platform analitik lainnya untuk melacak kinerja landing page.
+
+Color Scheme dan Tone Desain:
+
+*   Warna:
+    *   Primer: [Pilih Warna Primer: Contoh: Biru (kepercayaan, pengetahuan), Hijau (pertumbuhan, kesegaran), Ungu (kreativitas, kebijaksanaan)].  Sesuaikan dengan kepribadian influencer.
+    *   Sekunder: [Pilih Warna Sekunder: Contoh: Kuning (optimisme, energi), Oranye (antusiasme, kehangatan)]. Gunakan untuk aksen dan CTA.
+    *   Netral: Putih, abu-abu muda, atau krem untuk latar belakang dan teks.
+*   Tone:  Profesional, ramah, inspiratif, dan mudah didekati.  Hindari kesan menggurui atau terlalu kaku.
+*   Font: Pilih font yang mudah dibaca dan modern. Kombinasikan font heading yang menonjol dengan font body yang nyaman dibaca.
+
+Gaya Bahasa dan Pilihan Kata:
+
+*   Gaya Bahasa: Jelas, ringkas, dan persuasif. Gunakan bahasa yang mudah dipahami oleh target audiens.
+*   Pilihan Kata:
+    *   Gunakan kata-kata yang positif dan berorientasi pada manfaat.
+    *   Hindari jargon atau istilah teknis yang tidak perlu.
+    *   Gunakan kata kerja tindakan yang kuat untuk mendorong konversi.
+    *   Sertakan elemen storytelling untuk membuat konten lebih menarik.
+    *   Gunakan sapaan yang personal (misalnya, "Hai [Nama Pengunjung]" jika memungkinkan).
+
+Daftar Sections Landing Page & Language Style:
+
+| Section                | Tujuan                                                                | Language Style                                                                                | Contoh Judul/Copy                                                                                                                                                             |
+| ---------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Hero Section       | Menarik perhatian, menjelaskan value proposition utama.              | Singkat, kuat, berorientasi pada manfaat.                                                     | "Buka Potensi Terbaikmu Bersama [Nama Influencer]: Dapatkan Tips Belajar Efektif & Strategi Sukses Ujian!" / "Siap Jadi Lebih Pintar? [Nama Influencer] Siap Membantu!"            |
+| About Section      | Memperkenalkan influencer, membangun kredibilitas.                    | Personal, otentik, menyoroti pengalaman dan pencapaian.                                     | "Tentang [Nama Influencer]: Misi Saya adalah Membantumu Meraih Impian Akademik" /  "Dari [Pengalaman] Hingga [Pencapaian]: Perjalanan Saya di Dunia Pendidikan"                  |
+| Value Proposition | Menjelaskan manfaat yang ditawarkan secara lebih detail.            | Berorientasi pada solusi, menekankan hasil yang dapat dicapai.                                | "Dengan [Metode Influencer], Kamu Akan: Meningkatkan Nilai, Menguasai Materi Lebih Cepat, dan Merasa Lebih Percaya Diri!" / "Temukan Rahasia Belajar Efektif yang Belum Kamu Tahu!" |
+| Content/Services    | Memamerkan konten atau layanan yang ditawarkan (kelas, e-book, dll.). | Deskriptif, menarik, menunjukkan nilai unik setiap penawaran.                               | "Kelas Online: [Nama Kelas] - Kuasai [Topik] dalam Waktu Singkat!" / "E-book: [Judul E-book] - Panduan Lengkap untuk Meraih Nilai A di [Mata Pelajaran]"                               |
+| Testimonials       | Membangun kepercayaan melalui pengalaman orang lain.                  | Otentik, spesifik, menyoroti manfaat yang dirasakan.                                         | "[Nama Pengguna]: '[Testimoni]' " / "Lihat Apa Kata Mereka yang Sudah Merasakan Manfaatnya!"                                                                                      |
+| Call to Action      | Mendorong pengunjung untuk melakukan tindakan yang diinginkan.       | Persuasif, mendesak, memberikan insentif.                                                    | "Daftar Newsletter Sekarang dan Dapatkan E-book Gratis!" / "Mulai Belajar Sekarang & Raih Kesuksesanmu!" / "Konsultasi Gratis: Temukan Strategi Belajar Terbaik untukmu!"           |
+| Footer             | Informasi kontak, tautan ke media sosial, kebijakan privasi.           | Jelas, ringkas, profesional.                                                                  | "Hubungi Kami: [Email] / Ikuti Saya di [Media Sosial] / Kebijakan Privasi"                                                                                                     |
+
+Tips Tambahan:
+
+*   Visual: Gunakan foto dan video berkualitas tinggi dari influencer.
+*   Personalisasi:  Jika memungkinkan, personalisasikan konten berdasarkan perilaku pengunjung (misalnya, dengan menggunakan cookie).
+*   A/B Testing: Uji berbagai elemen landing page (judul, CTA, gambar) untuk melihat mana yang paling efektif.
+
+Dengan prompt dan panduan ini, Anda dapat menghasilkan landing page yang tidak hanya terlihat bagus, tetapi juga efektif dalam mencapai tujuan influencer pendidikan tersebut. Jangan ragu untuk menyesuaikan detailnya agar sesuai dengan kepribadian dan target audiens influencer.
+
+
+Apakah Anda ingin mengubah deskripsi ini?
