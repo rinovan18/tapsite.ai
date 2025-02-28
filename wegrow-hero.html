@@ -1,0 +1,146 @@
+<section class="relative min-h-screen flex items-center justify-center bg-black overflow-hidden">
+    <!-- Background Video -->
+    <video autoplay="" muted="" loop="" class="absolute top-0 left-0 w-full h-full object-cover object-center">
+        <source src="https://framerusercontent.com/assets/NueWcgW4FEXhmJzhiufYPPyAq3I.mp4" type="video/mp4">
+        <!-- Placeholder image for browsers that don't support video -->
+        <img src="https://placehold.co/1920x1080/000000/000000?text=Video+Background&amp;font=roboto" alt="Fallback Background" class="w-full h-full object-cover custom-cursor ">
+    </video>
+
+    <!-- Overlay -->
+    <div class="absolute inset-0 bg-black bg-opacity-60"></div>
+
+    <!-- Navigation (Sticky) -->
+    <nav class="absolute top-0 left-0 w-full z-10 bg-transparent py-4">
+        <div class="container mx-auto px-6 flex items-center justify-between">
+            <a href="/" class="custom-cursor ">
+                <img src="https://framerusercontent.com/images/pkEfX5l9J4hrzgc8WTIVwwn1jtk.png" alt="Logo" class="h-10 custom-cursor ">
+            </a>
+            <!-- Desktop Menu -->
+            <div class="hidden lg:flex items-center space-x-6">
+                <a href="#case-studies" class="text-white hover:text-blue-400 transition duration-300 custom-cursor ">Work</a>
+                <a href="#services" class="text-white hover:text-blue-400 transition duration-300 custom-cursor ">Services</a>
+                <a href="#pricing" class="text-white hover:text-blue-400 transition duration-300 custom-cursor ">Pricing</a>
+                <a href="/Blog" class="text-white hover:text-blue-400 transition duration-300 custom-cursor ">Blog</a>
+                <a href="/cdn-cgi/l/email-protection#284041685f4d4f5a475f064c4d5b414f46" class="text-white hover:text-blue-400 transition duration-300 custom-cursor ">Contact</a>
+                <a href="https://billing.stripe.com/p/login/14kcQac2P7DKeC4eUU" rel="noopener" class="text-white hover:text-blue-400 transition duration-300 custom-cursor ">Log in</a>
+                <a href="https://calendly.com/wegrowdesign/30min" target="_blank" rel="noopener" class="px-6 py-2 rounded-full text-white border border-white hover:bg-white hover:text-black transition duration-300 custom-cursor ">Book a call</a>
+            </div>
+          <!-- Mobile Menu Button (Hamburger) -->
+            <button id="menu-toggle" class="menu-toggle custom-cursor lg:hidden ">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="white" width="24" height="24" class="custom-cursor "></svg>
+                    <path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"></path>
+                
+            </button>
+        </div>
+        <!-- Mobile Menu (Initially Hidden) -->
+        <div id="mobile-menu" class="hidden fixed top-0 left-0 w-full h-screen bg-black bg-opacity-95 z-50">  <!-- Fixed positioning and high z-index -->
+             <div class="p-4">
+                <button id="menu-close" class="text-white hover:text-gray-300 focus:outline-none custom-cursor ">
+                    <svg class="w-6 h-6 custom-cursor " fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+                    </svg>
+                </button>
+            </div>
+
+             <ul class="py-4 custom-cursor ">
+                <li><a href="#case-studies" class="block px-4 py-2 text-white hover:bg-gray-700 custom-cursor ">Work</a></li>
+                <li><a href="#services" class="block px-4 py-2 text-white hover:bg-gray-700 custom-cursor ">Services</a></li>
+                <li><a href="#pricing" class="block px-4 py-2 text-white hover:bg-gray-700 custom-cursor ">Pricing</a></li>
+                <li><a href="/Blog" class="block px-4 py-2 text-white hover:bg-gray-700 custom-cursor ">Blog</a></li>
+                <li><a href="/cdn-cgi/l/email-protection#284041685f4d4f5a475f064c4d5b414f46" class="block px-4 py-2 text-white hover:bg-gray-700 custom-cursor ">Contact</a></li>
+                <li><a href="https://billing.stripe.com/p/login/14kcQac2P7DKeC4eUU" rel="noopener" class="block px-4 py-2 text-white hover:bg-gray-700 custom-cursor ">Log in</a></li>
+                <li><a href="https://calendly.com/wegrowdesign/30min" target="_blank" rel="noopener" class="block px-4 py-2 text-white hover:bg-gray-700 custom-cursor ">Book a call</a></li>
+            </ul>
+        </div>
+    </nav>
+
+
+
+    <!-- Content Container -->
+    <div class="relative z-10 text-center text-white container mx-auto px-6">
+        <h1 class="text-4xl md:text-6xl lg:text-7xl font-bold mb-4 leading-tight custom-cursor ">We <em class="text-green-300">design,</em> you grow</h1>
+        <p class="text-lg md:text-xl lg:text-2xl mb-10 custom-cursor ">A design subscription service that truly feels like an in-house team.</p>
+
+        <!-- CTA Buttons -->
+        <div class="flex flex-col md:flex-row justify-center items-center space-y-4 md:space-y-0 md:space-x-4">
+            <a href="#pricing" class="px-8 py-3 rounded-full bg-white text-black font-bold hover:bg-gray-200 transition duration-300 custom-cursor ">View Pricing</a>
+            <a href="https://calendly.com/wegrowdesign/30min" target="_blank" rel="noopener" class="px-8 py-3 rounded-full border border-white text-white hover:bg-white hover:text-black transition duration-300 custom-cursor ">Book a Call</a>
+        </div>
+
+        <!-- Featured Logos (Scrolling Marquee) -->
+        <div class="mt-16">
+            <p class="text-gray-500 text-lg mb-4 custom-cursor  highlight-active">Trusted by:</p>
+            <div class="overflow-hidden">
+                <ul class="flex animate-marquee whitespace-nowrap custom-cursor ">
+                    <!-- Duplicate the list items to create a seamless loop -->
+                    <li><img src="https://framerusercontent.com/images/MN6UntvyNU9ZYDRR3BInymAXwY.png" alt="Iota logo" class="h-8 mx-8 custom-cursor "></li>
+                    <li><img src="https://framerusercontent.com/images/GuWeD0GGdoDCY6A9lC6dr2Hjio.png" alt="deLUPAY LOGO" class="h-8 mx-8 custom-cursor "></li>
+                    <li><img src="https://framerusercontent.com/images/sl5bBVdg0usBrZYfTYwjGfpkxM.png" alt="FUNNELS UNIVERSITY" class="h-8 mx-8 custom-cursor "></li>
+                    <li><img src="https://framerusercontent.com/images/BLxG4UTx6Fi52ep4qx0yXCeBjU.png" alt="ilga" class="h-8 mx-8 custom-cursor "></li>
+                    <li><img src="https://framerusercontent.com/images/P2xwQPCvGgJz2rcRCrBBFDrEkZ4.png" alt="Greenly logo" class="h-8 mx-8 custom-cursor "></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <style>
+        .menu-toggle {
+            background: none;
+            border: none;
+            cursor: pointer;
+            padding: 10px;
+        }
+
+       /* Remove mobile-menu class and styles, replaced with simpler logic */
+
+        @keyframes marquee {
+            0% { transform: translateX(0); }
+            100% { transform: translateX(-50%); }
+        }
+
+        .animate-marquee {
+            animation: marquee 20s linear infinite;
+        }
+       .custom-cursor {
+            cursor: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cpath d='M0 0h24v24H0z' fill='none'/%3E%3Cpath d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm3.5-9c.83 0 1.5-.67 1.5-1.5s-.67-1.5-1.5-1.5-1.5.67-1.5 1.5.67 1.5 1.5 1.5zm-7 0c.83 0 1.5-.67 1.5-1.5S9.33 8 8.5 8 7 8.67 7 9.5s.67 1.5 1.5 1.5zm3.5 6c-2.33 0-4.31-1.46-5.11-3.5h10.22c-.8 2.04-2.78 3.5-5.11 3.5z") 12 12, auto;
+        }
+@media (min-width: 990px) {
+    #mobile-menu {
+        display: none !important; /* Hide mobile menu on larger screens */
+    }
+}
+        /* Media query for larger screens */
+        @media (min-width: 990px) {
+            #mobile-menu {
+                display: none !important; /* Hide mobile menu on larger screens */
+            }
+        }
+
+    </style>
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+    const menuToggle = document.getElementById('menu-toggle');
+    const mobileMenu = document.getElementById('mobile-menu');
+    const menuClose = document.getElementById('menu-close');
+
+
+    menuToggle.addEventListener('click', () => {
+        mobileMenu.classList.remove('hidden'); // Show the menu
+    });
+
+    menuClose.addEventListener('click', () => {
+      mobileMenu.classList.add('hidden'); // Hide menu on close button click
+    });
+
+    // Close menu if click outside the menu.
+    document.addEventListener('click', (event) => {
+      if (!mobileMenu.contains(event.target) && !menuToggle.contains(event.target)) {
+        mobileMenu.classList.add('hidden');
+      }
+    });
+
+});
+</script>
+
+</section>

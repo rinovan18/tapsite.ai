@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Kartu Proses dengan Menu Burger</title>
+ <style>
+ /* CSS untuk styling */
+ body {
+ margin: 0;
+ font-family: sans-serif;
+ }
+
+ header {
+ background-color: #333;
+ color: white;
+ padding: 10px;
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ }
+
+ .menu-toggle {
+ background: none;
+ border: none;
+ color: white;
+ cursor: pointer;
+ padding: 10px;
+ }
+
+ nav {
+ background-color: rgba(0, 0, 0, 0.8);
+ position: fixed;
+ top: 0;
+ right: 0;
+ height: 100%;
+ width: 250px;
+ transform: translateX(100%);
+ transition: transform 0.3s ease-in-out;
+ padding-top: 50px;
+ }
+
+ nav.open {
+ transform: translateX(0);
+ }
+
+ nav ul {
+ list-style: none;
+ padding: 0;
+ margin: 0;
+ }
+
+ nav li {
+ padding: 20px;
+ text-align: center;
+ }
+
+ nav a {
+ color: white;
+ text-decoration: none;
+ }
+
+ section.relative {
+ position: relative;
+ min-height: 100vh;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ background-color: black;
+ overflow: hidden;
+ color: white; /* Tambahkan warna teks putih untuk section */
+ }
+
+ .card-container {
+ display: flex;
+ gap: 20px;
+ }
+
+ .card {
+ background-color: #222;
+ padding: 20px;
+ border-radius: 8px;
+ width: 300px;
+ }
+
+ .image-container {
+ width: 50px;
+ height: 50px;
+ margin-bottom: 10px;
+ }
+
+ .image-container img {
+ width: 100%;
+ height: auto;
+ border-radius: 50%;
+ animation: rotate 10s linear infinite; /* Animasi default */
+ }
+
+ @keyframes rotate {
+ from {
+ transform: rotate(0deg);
+ }
+ to {
+ transform: rotate(360deg);
+ }
+ }
+ </style>
+</head>
+<body>
+ <header>
+ <button id="menu-toggle" class="menu-toggle">
+ <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="white" width="24" height="24"><path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/></svg>
+ </button>
+ <nav class="mobile-menu">
+ <ul>
+ <li><a href="#case-studies">Work</a></li>
+ <li><a href="#services">Services</a></li>
+ <li><a href="#pricing">Pricing</a></li>
+ <li><a href="./Blog">Blog</a></li>
+ <li><a href="mailto:hi@wegrow.design">Contact</a></li>
+ <li><a href="https://billing.stripe.com/p/login/14kcQac2P7DKeC4eUU">Log in</a></li>
+ <li><a href="https://calendly.com/wegrowdesign/30min">Book a call</a></li>
+ </ul>
+ </nav>
+ </header>
+ <section class="relative min-h-screen flex items-center justify-center bg-black overflow-hidden">
+ </section>
+ <script>
+ const menuToggle = document.getElementById('menu-toggle');
+ const nav = document.querySelector('nav');
+
+ menuToggle.addEventListener('click', () => {
+ nav.classList.toggle('open');
+ });
+
+ /* Menghapus referensi ke images karena elemen-elemen image-container telah dihapus
+ const images = document.querySelectorAll('.image-container img');
+
+ window.addEventListener('scroll', () => {
+ const scrollY = window.scrollY;
+ const animationDuration = 10 - scrollY / 100;
+ const safeDuration = Math.max(animationDuration, 1);
+
+ images.forEach(img => {
+ img.style.animationDuration = `${safeDuration}s`;
+ });
+ });
+ */
+ </script>
+</body>
+</html>
